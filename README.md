@@ -5,25 +5,25 @@
 ## 创建新文章
 
 ```
-$ hexo new [layout] <标题>
+hexo new [layout] <标题>
 ```
 
 ## 本地运行
 
 ```
-$ hexo server
+hexo server
 ```
 
 ## 生成博客
 
 ```
-$ hexo generate
+hexo generate
 ```
 
 ## 部署博客
 
 ```
-$ hexo deploy
+hexo deploy
 ```
 
-当然如果配置了Travis CI的话就更简单了，直接推代码就可以了。
+当然如果配置了Travis CI的话就更简单了，直接推代码就可以了。详情参考[Hexo部署教程](https://hexo.io/zh-cn/docs/github-pages)。
