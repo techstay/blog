@@ -9,14 +9,14 @@ branches:
 script:
   - hexo generate # generate static files
 deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GH_TOKEN
+  provider: pages:git
+  token: $GH_TOKEN
   keep-history: false
-  on:
-    branch: master
+  edge: true # opt in to dpl v2
+  fqdn: techstay.xyz
   local-dir: public
 notifications:
   email:
     on_success: never # default: change
     on_failure: always # default: always
+
