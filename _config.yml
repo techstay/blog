@@ -13,8 +13,8 @@ timezone: "Asia/Shanghai"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://techstay.github.io/my-static-blog
-root: /my-static-blog/
+url: https://www.techstay.xyz
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
