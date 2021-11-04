@@ -5,7 +5,7 @@
 # Site
 title: 易天部落格
 subtitle: "可能什么都写，可能什么都不写"
-description: "个人博客，写一点东西"
+description: "推广一下公众号乐百川，主要更新一些技术文章"
 keywords: 编程,programming
 author: 易天
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://techstay.xyz
+url: https://techstay.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -46,7 +46,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace: ""
   wrap: true
   hljs: false
@@ -103,7 +103,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/techstay/my-static-blog
+  repo: https://github.com/techstay/techstay.github.io
   branch: gh-pages
 
 # Disqus Comments
@@ -121,20 +121,3 @@ feed:
   content:
   content_limit: 140
   content_limit_delim: " "
-
-live2d:
-  enable: true
-  scriptFrom: local
-  pluginRootPath: live2dw/
-  pluginJsPath: lib/
-  pluginModelPath: assets/
-  tagMode: false
-  debug: false
-  model:
-    use: live2d-widget-model-shizuku
-  display:
-    position: right
-    width: 150
-    height: 300
-  mobile:
-    show: true

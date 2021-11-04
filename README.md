@@ -1,29 +1,53 @@
-# my-static-blog [![Build Status](https://travis-ci.com/techstay/my-static-blog.svg?branch=master)](https://travis-ci.com/techstay/my-static-blog)
+# my-static-blog
 
 我的基于Hexo的静态博客
 
-## 创建新文章
+## 基础配置
+
+### 安装类库
+
+一些必须的类库。
+
+```
+npm install hexo-deployer-git --save
+npm install hexo-feed --save-dev
+```
+
+## 文章编辑
+
+### 创建新文章
 
 ```
 hexo new [layout] <标题>
 ```
 
-## 本地运行
+### 本地运行
 
 ```
 hexo server
 ```
 
-## 生成博客
+### 生成博客
 
 ```
 hexo generate
 ```
 
-## 部署博客
+### 部署博客
+
+在配置文件中设置提交配置：
 
 ```
-hexo deploy
+deploy:
+  type: git
+  repo: https://github.com/techstay/my-static-blog
+  branch: gh-pages
 ```
 
-当然如果配置了Travis CI的话就更简单了，直接推代码就可以了。详情参考[Hexo部署教程](https://hexo.io/zh-cn/docs/github-pages)。
+然后就可以用下面的命令之一生成和提交博客了。
+
+```
+hexo generate --deploy
+hexo deploy --generate
+```
+
