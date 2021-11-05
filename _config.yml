@@ -13,7 +13,7 @@ timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://techstay.life
+url: https://blog.techstay.life
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -107,7 +107,7 @@ deploy:
   branch: gh-pages
 
 # Disqus Comments
-disqus_shortname: yitian-static-blog
+disqus_shortname: blog.techstay.life
 
 feed:
   type:
