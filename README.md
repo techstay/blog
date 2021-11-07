@@ -1,4 +1,4 @@
-# my-static-blog
+# my-static-blog ![build status](https://github.com/techstay/techstay.github.io/actions/workflows/deploy.yml/badge.svg)
 
 我的基于Hexo的静态博客
 
