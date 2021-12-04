@@ -14,6 +14,14 @@ git init
 git submodule add https://github.com/techstay/hugo-theme-tokiwa.git themes/hugo-theme-tokiwa
 ```
 
+## 克隆项目
+
+因为包含子模块，所以克隆的时候需要同时指定克隆所有子模块。
+
+```sh
+git clone --recursive git@github.com:techstay/techstay.github.io.git
+```
+
 ## 添加文章
 
 文章放到posts目录下。
