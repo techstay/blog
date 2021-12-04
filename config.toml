@@ -1,0 +1,70 @@
+baseURL = 'https://techstay.life/'
+languageCode = 'zh-Hans'
+title = '技术改变生活'
+theme = 'hugo-theme-tokiwa'
+
+disqusShortname = "techstay.blog"
+googleAnalytics = "G-63MDHB00QX"
+hasCJKLanguage = true
+
+[markup]
+[markup.highlight]
+style = "monokailight"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+# bannerFont = "fonts/exampleFont" 
+description = """
+努力去做一个有趣的人，做一些有趣的事
+""" 
+env = "production" # for Google Analytics and DISQUS.
+# favicon = "img/favicon-32x32.png" 
+fuse = true # for searchbox. "JSON" must added to output contents. See [outputs].
+math = true # for introducing $KaTEX$
+useChineseFonts = true 
+postDateFormat = "2006-1-2"
+
+[menu]
+# Shown in the side menu.
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 1
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+name = "Categories"
+url = "/categories/"
+weight = 2
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+[social]
+# bilibili = "http://example.com/"
+github = "https://github.com/techstay"
+# gitlab = "http://gitlab.com/"
+# instagram = "http://example.com/"
+mail = "mailto:lovery521@gmail.com"
+# twitter = "http://twitter.com/"
+# weibo = "http://example.com/"
+# youtube = "http://youtube.com/"
+zhihu = "https://www.zhihu.com/people/techstay"
+# any icon in layouts/partials/svg can be used by the name without the "-line.svg"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
