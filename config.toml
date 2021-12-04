@@ -3,7 +3,7 @@ languageCode = 'zh-Hans'
 title = '技术改变生活'
 theme = 'hugo-theme-tokiwa'
 
-disqusShortname = "techstay.blog"
+disqusShortname = "techstay-blog"
 googleAnalytics = "G-63MDHB00QX"
 hasCJKLanguage = true
 
