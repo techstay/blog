@@ -20,6 +20,7 @@ categories:
 - 标准支持。pipenv使用自己的配置文件来管理项目依赖。而poetry则使用的是[PEP 518](https://www.python.org/dev/peps/pep-0518/)标准，以后支持也会更加广泛。
 - 配置文件格式。pipenv使用环境变量来进行配置，在linux上还好，多几行export的事而已；在windows上配置就比较繁琐了。而poetry则使用配置文件，可以很方便的进行配置，也更容易保存到dotfiles里面。当然poetry也支持环境变量配置。
 - 更友好的软件行为。虽然当初我试用pipenv的感觉还不错，但是搜索了一下发现pipenv其实坑还挺多的。而poetry也在很多方面对pipenv进行了改进，官方[README](https://github.com/python-poetry/poetry#what-about-pipenv)也有说明。
+- 速度。poetry的速度也比pipenv要快一些。
 
 所以最后我就决定使用poetry了。
 
