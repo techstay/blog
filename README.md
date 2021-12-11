@@ -4,7 +4,7 @@
 
 ## 创建项目
 
-本项目使用hugo创建。
+本项目使用 hugo 创建。
 
 ```sh
 hugo new site techstay.github.io
@@ -24,7 +24,7 @@ git clone --recursive git@github.com:techstay/techstay.github.io.git
 
 ## 添加文章
 
-文章放到posts目录下。
+文章放到 posts 目录下。
 
 ```sh
 hugo new posts/my-post.md
@@ -40,4 +40,4 @@ hugo server -D --bind 0.0.0.0
 
 ## 部署
 
-只需正常提交代码，就可以使用Github Action自动部署。
+只需正常提交代码，就可以使用 Github Action 自动部署。
