@@ -2,18 +2,6 @@
 
 我的静态博客站点。
 
-## 创建项目
-
-本项目使用 hugo 创建。
-
-```sh
-hugo new site techstay.github.io
-cd techstay.github.io
-git init
-# 无需定制就直接使用主题，如果需要定制就先克隆仓库，然后自己修改
-git submodule add https://github.com/techstay/hugo-theme-tokiwa.git themes/hugo-theme-tokiwa
-```
-
 ## 克隆项目
 
 因为包含子模块，所以克隆的时候需要同时指定克隆所有子模块。
