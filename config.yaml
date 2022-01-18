@@ -32,7 +32,7 @@ params:
 
   footer:
     since: 2020
-    customText:
+    customText: 本站总访问量<span id="busuanzi_value_site_pv"></span>次，总访客数<span id="busuanzi_value_site_uv"></span>人，当前页面总访问量<span id="busuanzi_value_page_pv"></span>次
 
   dateFormat:
     published: Jan 02, 2006
