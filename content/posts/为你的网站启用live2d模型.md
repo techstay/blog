@@ -13,3 +13,9 @@ categories:
 
 - <https://github.com/stevenjoezhang/live2d-widget>
 - <https://github.com/xiazeyu/live2d-widget-models>
+
+---
+
+2022 年 1 月 26 日更新：
+
+我又回来啦，博客换了一个主题之后可以自定义代码段了。所以现在有能力做一点简单的修改，包括引入一些动画效果，以及再把 live2d 搞回来。不过可惜的是，我看了半天也没看懂怎么添加其他的模型，貌似要修改很多东西，遂只好放弃，只能把默认的 live2d 加上。不过其实效果也不错，反正作为老二次元，不管好不好看先搞一个再说嘛。
