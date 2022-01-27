@@ -2,6 +2,14 @@
 
 我的静态博客站点。
 
+## 安装 hugo
+
+博客使用的主题`hugo-theme-stack`需要用到`hugo-extended`，可以通过 scoop 来安装。
+
+```sh
+scoop install hugo-extended
+```
+
 ## 克隆项目
 
 因为包含子模块，所以克隆的时候需要同时指定克隆所有子模块。
