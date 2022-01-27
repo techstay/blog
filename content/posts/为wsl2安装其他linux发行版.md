@@ -5,7 +5,7 @@ tags:
   - linux
   - windows
 categories:
-  - windows
+  - 编程
 ---
 
 WSL（全名 Windows Subsystem for Linux，即 Linux 子系统）是一个非常好用的功能，它本质上是一个虚拟机，但是和 Windows 有着很高的集成度，能让我们像运行本地命令一样执行 Linux 程序，可以说是极为方便，用过的都说好。不过比较可惜的是，这个功能支持的 Linux 发行版有限，只能应用商店里的 Ubuntu、OpenSUSE 等几个，实在是不能满足广大开发者的需求。不过没有关系，虽然商店里的发行版有限，但是我们也可以自己安装发行版，这也就是本文要介绍的内容。

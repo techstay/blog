@@ -4,9 +4,8 @@ date: 2022-01-26T14:11:46+08:00
 tags:
   - linux
   - Windows
-  - qt
 categories:
-  - windows
+  - 编程
 ---
 
 msys2 是一套用于创建 windows 应用程序的工具集，提供了类似 linux 的命令行界面和接口。虽然 windows 现在有了 wsl（linux 子系统）功能，但是如果要开发 windows 应用程序的话，还是最好装一个 msys2，而且 msys2 使用起来也很方便。

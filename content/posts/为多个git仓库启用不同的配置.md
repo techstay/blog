@@ -4,7 +4,7 @@ date: 2021-12-04T20:48:13+08:00
 tags:
   - git
 categories:
-  - git
+  - 编程
 ---
 
 本文参考了[how-to-tell-git-which-private-key-to-use](https://superuser.com/questions/232373/how-to-tell-git-which-private-key-to-use)。

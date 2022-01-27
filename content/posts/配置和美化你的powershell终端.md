@@ -4,7 +4,7 @@ date: 2021-12-11T02:09:25+08:00
 tags:
   - powershell
 categories:
-  - windows
+  - 编程
 ---
 
 一直以来我都不太喜欢在 Powershell 下使用命令行，一个重要原因就是 Powershell 没有像 ohmyzsh 那样成熟的生态，没有各种各样强大的插件支持，其实命令行用起来并不舒服。不过最近正好看到了几个 Powershell 有关的教程，觉得挺有意思，就研究了一下，配置完成以后的 Powershell 其实用起来感觉还可以。所以就来给大家介绍一下。
