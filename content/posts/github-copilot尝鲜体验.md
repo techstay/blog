@@ -2,7 +2,7 @@
 title: "Github Copilot尝鲜体验"
 date: 2022-01-27T17:55:29+08:00
 tags:
-  - 编程
+  - Github
 categories:
   - 编程
 ---
