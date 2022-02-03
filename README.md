@@ -26,7 +26,7 @@ git clone --recursive git@github.com:techstay/techstay.github.io.git
 hugo new posts/my-post.md
 ```
 
-文章名以简单的中英文描述，如果遇到空格就用连字符`-`代替，详细的文件名在文章内的标题里说明。
+文章名以简单的英文描述，如果遇到空格就用连字符`-`代替，完整的文章标题在文章内的 front matter 里说明。因为一篇文章的标题也是经常修改的，每次同时要修改文件名和文章名挺费事的，不如直接用简短的英文描述文章主题，这样只需要修改 front matter 里的文章主题即可。
 
 ## 本地查看
 
