@@ -496,6 +496,24 @@ git filter-branch --commit-filter 'git commit-tree -S "$@";' -- --all
 git push --force
 ```
 
+### 信任 github 公钥
+
+你可能会发现，从 github 网页端编辑的提交虽然在网页上显示为已验证状态，但是在本地查看的时候并没有验证。这是因为 github 网页端的提交使用了 github 自己的密钥，如果你想让本地也接受 github 的提交，那就需要信任 github 的公钥。
+
+首先导入 github 的公钥。
+
+```sh
+curl https://github.com/web-flow.gpg | gpg --import
+```
+
+然后信任 github 的公钥。
+
+```sh
+gpg --edit-key noreply@github.com
+gpg> trust
+gpg> save
+```
+
 ## 命令行概览
 
 gpg 命令行帮助。
