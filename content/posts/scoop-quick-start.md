@@ -1,5 +1,5 @@
 ---
-title: "Scoop使用教程"
+title: "Scoop快速入门"
 date: 2022-02-06T18:08:14+08:00
 tags:
   - scoop

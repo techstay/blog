@@ -1,5 +1,5 @@
 ---
-title: "Poetry 你绝对应该试试的python依赖管理工具"
+title: "Poetry快速入门"
 date: 2021-12-06T00:47:28+08:00
 tags:
   - python

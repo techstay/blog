@@ -1,5 +1,5 @@
 ---
-title: "Vim新手从入门到放弃"
+title: "Vim快速入门"
 date: 2022-01-26T17:53:33+08:00
 tags:
   - vim

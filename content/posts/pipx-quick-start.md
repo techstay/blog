@@ -1,5 +1,5 @@
 ---
-title: "Pipx 一个可以取代pip的包管理器"
+title: "Pipx快速入门"
 date: 2021-12-06T00:14:50+08:00
 tags:
   - python

@@ -1,5 +1,5 @@
 ---
-title: "Ssh使用教程"
+title: "Ssh快速入门"
 date: 2022-02-04T15:11:45+08:00
 tags:
   - ssh

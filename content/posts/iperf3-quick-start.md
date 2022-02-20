@@ -1,5 +1,5 @@
 ---
-title: "Iperf3使用教程"
+title: "Iperf3快速入门"
 date: 2022-02-03T18:14:53+08:00
 tags:
   - 网络
