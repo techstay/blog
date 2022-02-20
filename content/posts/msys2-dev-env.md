@@ -44,11 +44,11 @@ pacman -S --needed perl ruby python mingw-w64-i686-toolchain mingw-w64-x86_64-to
 
 ```
 
-安装 qt 及静态链接库：
+安装 qt 类库：
 
 ```sh
 pacman -S --needed mingw-w64-x86_64-qt6 mingw-w64-x86_64-cmake
-pacman -S --needed mingw-w64-x86_64-qt6-static
+pacman -S --needed mingw-w64-i686-qt6-static mingw-w64-x86_64-qt6-static
 ```
 
 安装 qt creator：
@@ -58,3 +58,23 @@ pacman -S mingw-w64-x86_64-qt-creator
 ```
 
 然后就可以用 qt 来开发跨平台的图形界面程序啦。
+
+或者如果你使用 xmake 的话，可以先创建一个 qt 项目。
+
+```sh
+xmake create -t qt.quickapp qt-test
+```
+
+然后切换进项目目录中，指定要使用的 mingw 路径。
+
+```powershell
+cd qt-test
+xmake f -p mingw --sdk=$HOME\scoop\apps\msys2\current\mingw64
+```
+
+然后就可以编译和运行啦。
+
+```sh
+xmake
+xmake run
+```
