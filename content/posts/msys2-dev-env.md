@@ -40,7 +40,7 @@ ridk install
 
 ```sh
 pacman -S --needed base-devel git mercurial cvs wget p7zip
-pacman -S --needed perl ruby python mingw-w64-i686-toolchain mingw-w64-x86_64-toolchain
+pacman -S --needed perl ruby python mingw-w64-x86_64-toolchain
 
 ```
 
@@ -48,7 +48,7 @@ pacman -S --needed perl ruby python mingw-w64-i686-toolchain mingw-w64-x86_64-to
 
 ```sh
 pacman -S --needed mingw-w64-x86_64-qt6 mingw-w64-x86_64-cmake
-pacman -S --needed mingw-w64-i686-qt6-static mingw-w64-x86_64-qt6-static
+pacman -S --needed mingw-w64-x86_64-qt6-static
 ```
 
 安装 qt creator：
