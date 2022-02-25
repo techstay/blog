@@ -1,11 +1,12 @@
 ---
-title: "为wsl2安装其他linux发行版"
+title: "WSL安装自定义发行版"
 date: 2021-12-11T23:31:25+08:00
 tags:
   - linux
   - windows
+  - wsl
 categories:
-  - 编程
+  - windows
 ---
 
 WSL（全名 Windows Subsystem for Linux，即 Linux 子系统）是一个非常好用的功能，它本质上是一个虚拟机，但是和 Windows 有着很高的集成度，能让我们像运行本地命令一样执行 Linux 程序，可以说是极为方便，用过的都说好。不过比较可惜的是，这个功能支持的 Linux 发行版有限，只能应用商店里的 Ubuntu、OpenSUSE 等几个，实在是不能满足广大开发者的需求。不过没有关系，虽然商店里的发行版有限，但是我们也可以自己安装发行版，这也就是本文要介绍的内容。
@@ -66,7 +67,8 @@ id -u
 为了将新账户设置成默认账户，需要在管理员权限的 Powershell 中运行下面的命令。这里的要点是，刚才我们创建的新用户对应的 ID 应该是 1000，然后就可以在注册表里将默认用户设置为 ID 为 1000 的账户。假如你的新用户 ID 不是 1000，那么也应该跟着改，查看用户 ID 可以用`id -u`命令。
 
 ```powershell
-Get-ItemProperty Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Lxss\*\ DistributionName | Where-Object -Property DistributionName -eq Fedora  | Set-ItemProperty -Name DefaultUid -Value 1000
+$distroName = 'Fedora'
+Get-ItemProperty Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Lxss\*\ DistributionName | Where-Object -Property DistributionName -eq $distroName | Set-ItemProperty -Name DefaultUid -Value 1000
 ```
 
 ### 导入和导出
@@ -89,7 +91,7 @@ wsl --export fedora fedora-wsl.tar
 
 接下来介绍如何安装 Arch，其实过程基本上大同小异。这里只在使用不同的方法时着重说明一下，安装的路径默认和前面一样。
 
-其实现在已经有一个 ArchWSL 的项目了，之前我也一直用的那个项目，不过因为之前几个月没更新了，所以安装的时候会有一个错误提示不断重复很长一段。虽然不影响使用，但是感觉上还是稍微差一点。所以借着这次就顺便自己再安装一遍。
+其实现在已经有一个 ArchWSL 的项目了，不过这里为了演示还是手动安装一次 Arch。
 
 ### 获取 rootfs
 
@@ -131,7 +133,8 @@ passwd yourusername
 将新用户设置为默认用户。如果没有设置成功，先用`wsl --terminate Arch`将 Arch 关机，然后运行该命令，再试一次。
 
 ```powershell
-Get-ItemProperty Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Lxss\*\ DistributionName | Where-Object -Property DistributionName -eq Arch  | Set-ItemProperty -Name DefaultUid -Value 1000
+$distroName = 'Arch'
+Get-ItemProperty Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Lxss\*\ DistributionName | Where-Object -Property DistributionName -eq $distroName | Set-ItemProperty -Name DefaultUid -Value 1000
 ```
 
 剩下的安装软件包的工作就不在介绍了。这样一来，我们就获得了两个不在应用商店的全新 WSL 发行版。其他发行版的设置也基本上大同小异，这里就不在重复了。
