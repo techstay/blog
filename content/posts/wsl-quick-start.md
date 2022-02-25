@@ -180,3 +180,19 @@ Get-NetTCPSetting|select SettingName, DynamicPortRange*
 ```powershell
 Set-NetTCPSetting -DynamicPortRangeStartPort 40000 -DynamicPortRangeNumberOfPorts 10000
 ```
+
+## 互操作
+
+### 网络交互
+
+WSL 中的网络连接会被转发到宿主机本地会换地址，所以可以直接用`localhost:80`访问 WSL 开启的 80 端口标准 web 程序。
+
+反过来则需要用宿主机的 IP 地址来访问，例如本地开启了 8080 端口号，那么在 WSL 中需要用`192.168.1.123:8080`来访问。
+
+### 文件交互
+
+WSL 可以直接访问宿主机中的文件，宿主机的文件会以`/mnt/c/XXXx`的形式挂载到 WSL 中。
+
+反过来也可以在宿主机中访问 WSL 中的文件夹，WSL 的文件系统会被映射为网络地址的形式，访问路径为`\\wsl$\Ubuntu`。
+
+当然，虽然可以比较方便的进行文件交互操作，但是仍然有不小的性能损失。如果如果要用 WSL 完成一些重要的任务，最好直接在 WSL 的文件系统上工作。
