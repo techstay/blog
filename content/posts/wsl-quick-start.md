@@ -159,6 +159,13 @@ gpg --import-options restore --import private.gpg
 gpg --import-ownertrust < trust.txt
 ```
 
+最后在 git 中设置签名。
+
+```sh
+git config --global commit.gpgsign true
+git config --global user.signingkey <key-id>
+```
+
 ### 配置 docker
 
 既然都使用了 WSL，那么也顺便安装[Docker Desktop for Windows](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe)吧。
