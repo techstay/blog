@@ -5,6 +5,12 @@ theme: hugo-theme-stack
 paginate: 10
 title: 乐百川的小窝
 
+languages:
+  zh-cn:
+    languageName: 中文
+    title: 乐百川的小窝
+    weight: 1
+
 # Change it to your Disqus shortname before using
 disqusShortname: techstay-blog
 
@@ -105,6 +111,12 @@ params:
       path:
       lang:
 
+    # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
+    cactus:
+      defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
+      serverName: "cactus.chat"
+      siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
+
     giscus:
       repo:
       repoID:
@@ -128,16 +140,19 @@ params:
       id:
 
   widgets:
-    enabled:
-      - search
-      - archives
-      - tag-cloud
-
-    archives:
-      limit: 8
-
-    tagCloud:
-      limit: 50
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 8
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 50
+    page:
+      - type: toc
 
   opengraph:
     twitter:
@@ -170,14 +185,7 @@ params:
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-  main:
-    - identifier: home
-      name: 主页
-      url: /
-      weight: -100
-      params:
-        newTab: false
-        icon: home
+  main: []
 
   social:
     - identifier: github
@@ -214,3 +222,9 @@ markup:
     startLevel: 2
   highlight:
     noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 4
