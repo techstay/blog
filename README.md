@@ -1,4 +1,4 @@
-# techstay.github.io ![build status](https://github.com/techstay/techstay.github.io/actions/workflows/gh-pages.yml/badge.svg)
+# techstay.github.io
 
 我的静态博客站点。
 
