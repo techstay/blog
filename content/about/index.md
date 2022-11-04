@@ -8,6 +8,8 @@ menu:
     weight: -90
     params:
       icon: user
+license: false
+readingTime: false
 ---
 
 一个懒人。
