@@ -3,6 +3,7 @@ title: "FC游戏AV麻将俱乐部牌型表"
 date: 2019-03-06T00:43:50+08:00
 tags:
   - 游戏
+  - FC游戏
 categories:
   - 游戏
 ---
