@@ -117,11 +117,11 @@ params:
       siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
     giscus:
-      repo: techstay/giscus-comment
-      repoID: R_kgDOIXlpSg
+      repo: techstay/blog
+      repoID: MDEwOlJlcG9zaXRvcnkxMTA1NzIzMDg=
       category: Announcements
-      categoryID: DIC_kwDOIXlpSs4CSXQU
-      mapping: url
+      categoryID: DIC_kwDOBpczFM4CS9Af
+      mapping: pathname
       lightTheme:
       darkTheme:
       reactionsEnabled: 1
