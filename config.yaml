@@ -38,7 +38,7 @@ params:
 
   footer:
     since: 2020
-    customText: 本站总访问量<span id="busuanzi_value_site_pv"></span>次，总访客数<span id="busuanzi_value_site_uv"></span>人，当前页面总访问量<span id="busuanzi_value_page_pv"></span>次
+    customText: 本站总访问量<span id="busuanzi_value_site_pv"></span>次，总访客数<span id="busuanzi_value_site_uv"></span>人，当前页面访问量<span id="busuanzi_value_page_pv"></span>次 <a href="https://icp.gov.moe/?keyword=20238972" target="_blank"><img src="https://img.shields.io/badge/萌ICP备-20238972号-blue?style=flat"></a>
 
   dateFormat:
     published: Jan 02, 2006
@@ -197,7 +197,6 @@ menu:
       url: https://www.zhihu.com/people/techstay
       params:
         icon: brand-zhihu
-
 
 related:
   includeNewer: true
