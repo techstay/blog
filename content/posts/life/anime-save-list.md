@@ -16,9 +16,12 @@ categories:
 - [腿之助兵衛](https://www.pixiv.net/users/41396497)，这也是一位巨乳画师
 - [dikkoson/dikk0](https://www.pixiv.net/users/848240)，这位喜欢画逼，画风也非常赞
 - [あくせま](https://www.pixiv.net/users/27818450)，这位也是重量级，全是奶子，啊，我喜欢奶子
+- [B-銀河](https://www.pixiv.net/users/9016)，这也是一位奶子色图大师
 - [Kiriko](https://www.pixiv.net/users/14046928)，画风我超喜欢
 - [Reine](https://www.pixiv.net/users/57824462)，美国画师，画风有点偏欧美二次元的感觉，画的巨乳也是我非常喜欢的
+- [プリケツ 03](https://www.pixiv.net/users/44152123)，一个画风很可爱的画师
 - [宮瀬まひろ](https://www.pixiv.net/users/544479)，画风有点小清新的感觉，nice
+- [升天](https://www.pixiv.net/users/43383935)，国人画师，好
 - [わくら](https://www.pixiv.net/users/54060)，画的波奇酱系列简直射爆
 - [へら](https://www.pixiv.net/users/8252709)，喜欢画巨乳
 - [Free Style](https://www.pixiv.net/users/4446354)，韩国画师，也是巨乳专业户
