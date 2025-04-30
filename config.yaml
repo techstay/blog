@@ -1,7 +1,6 @@
-baseurl: https://techstay.xyz
+baseurl: https://blog.techstay.tech
 languageCode: zh-cn
-# theme: hugo-theme-stack
-title: 落了一地碎碎念
+title: 一枝红杏出墙来
 
 pagination:
   pageSize: 5
@@ -12,23 +11,15 @@ module:
 languages:
   zh-cn:
     languageName: 中文
-    title: 落了一地碎碎念
+    title: 一枝红杏出墙来
     weight: 2
     params:
-      description: 我的独立博客，欢迎来做客
+      description: 孤芳自赏
 
-# Change it to your Disqus shortname before using
 disqusShortname: techstay
-
-# GA Tracking ID
 googleAnalytics: G-7D2YXGM78T
 
-# Theme i18n support
-# Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
 DefaultContentLanguage: zh-cn
-
-# Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
-# This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: true
 
 permalinks:
@@ -44,7 +35,7 @@ params:
 
   footer:
     since: 2020
-    customText: 本站总访问量<span id="busuanzi_value_site_pv"></span>次，总访客数<span id="busuanzi_value_site_uv"></span>人，当前页面访问量<span id="busuanzi_value_page_pv"></span>次 <a href="https://icp.gov.moe/?keyword=20238972" target="_blank"><img src="https://img.shields.io/badge/萌ICP备-20238972号-blue?style=flat"></a>
+    customText: 本站总访问量<span id="busuanzi_value_site_pv"></span>次，总访客数<span id="busuanzi_value_site_uv"></span>人，当前页面访问量<span id="busuanzi_value_page_pv"></span>次
 
   dateFormat:
     published: Jan 02, 2006
@@ -116,7 +107,7 @@ params:
       path:
       lang:
 
-    # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
+    # See https://cactus.chat/docs/getting-started/quick-start/
     cactus:
       defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
       serverName: "cactus.chat"
@@ -197,12 +188,6 @@ menu:
       url: https://github.com/techstay
       params:
         icon: brand-github
-
-    - identifier: zhihu
-      name: 知乎
-      url: https://www.zhihu.com/people/techstay
-      params:
-        icon: brand-zhihu
 
 related:
   includeNewer: true
