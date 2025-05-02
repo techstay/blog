@@ -4,7 +4,7 @@ date: 2022-12-22T17:04:47+08:00
 image: https://images6.alphacoders.com/909/909012.png
 tags:
   - 游戏
-  - fgo
+  - Fate
 categories:
   - 游戏
 ---
@@ -25,15 +25,15 @@ categories:
 
 记得空境活动是我第一个真正打完的活动。当时练度太差，看到管底的 50 万血呆毛，差点没把我吓死。不过后来嫖了大佬的闪闪，最后还是打过去了，真的是给我留下了非常深刻的印象。
 
-![](/img/fgo-servants-1.png)
-![](/img/fgo-servants-2.png)
-![](/img/fgo-servants-3.png)
-![](/img/fgo-servants-4.png)
-![](/img/fgo-servants-5.png)
-![](/img/fgo-servants-6.png)
-![](/img/fgo-servants-7.png)
-![](/img/fgo-servants-8.png)
-![](/img/fgo-servants-9.png)
+![](fgo-servants-1.png)
+![](fgo-servants-2.png)
+![](fgo-servants-3.png)
+![](fgo-servants-4.png)
+![](fgo-servants-5.png)
+![](fgo-servants-6.png)
+![](fgo-servants-7.png)
+![](fgo-servants-8.png)
+![](fgo-servants-9.png)
 
 ### 练度
 
@@ -41,24 +41,24 @@ categories:
 
 不过材料该打还是要打的，而且后面抽了蓝卡队以后，终于可以宝具无脑速刷，我就用模拟器录制操作，刷池子也很方便。
 
-![](/img/fgo-skill-1.png)
-![](/img/fgo-skill-2.png)
-![](/img/fgo-skill-3.png)
+![](fgo-skill-1.png)
+![](fgo-skill-2.png)
+![](fgo-skill-3.png)
 
 ### 喜欢的从者
 
 黑贞(即答)，再往后就凛，弓凛和仇凛。不过最喜欢的当然还是黑贞啦。现在的话，再加上个芝诺比阿和伽摩，没有错，我就是喜欢巨乳！不过因为画师风格的缘故，FGO 里巨乳虽多，但是我喜欢的其实没几个，反倒是同人图里面很多我是真的喜欢。
 
-![伽摩](https://fgo.wiki/images/thumb/c/cc/%E3%82%AB%E3%83%BC%E3%83%9E%E6%BB%A1%E7%A0%B4.png/285px-%E3%82%AB%E3%83%BC%E3%83%9E%E6%BB%A1%E7%A0%B4.png)
-![伊什塔尔](https://fgo.wiki/images/thumb/c/c6/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94%E7%81%B5%E5%9F%BA%E5%86%8D%E4%B8%B4IV.png/285px-%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94%E7%81%B5%E5%9F%BA%E5%86%8D%E4%B8%B4IV.png)
-![芝诺比阿](https://fgo.wiki/images/thumb/e/e6/%E3%82%BC%E3%83%8E%E3%83%93%E3%82%A2%E6%BB%A1%E7%A0%B4.png/285px-%E3%82%BC%E3%83%8E%E3%83%93%E3%82%A2%E6%BB%A1%E7%A0%B4.png)
-![布里托马特](https://fgo.wiki/images/thumb/d/dd/%E5%B8%83%E9%87%8C%E6%89%98%E7%8E%9B%E7%89%B9%E6%BB%A1%E7%A0%B4.png/285px-%E5%B8%83%E9%87%8C%E6%89%98%E7%8E%9B%E7%89%B9%E6%BB%A1%E7%A0%B4.png)
+![伽摩](https://media.fgo.wiki/1/11/%E8%BF%A6%E6%91%A9_charagraph_4.png)
+![伊什塔尔](https://media.fgo.wiki/c/c6/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94%E7%81%B5%E5%9F%BA%E5%86%8D%E4%B8%B4IV.png)
+![芝诺比阿](https://media.fgo.wiki/e/e6/%E3%82%BC%E3%83%8E%E3%83%93%E3%82%A2%E6%BB%A1%E7%A0%B4.png)
+![布里托马特](https://media.fgo.wiki/d/dd/%E5%B8%83%E9%87%8C%E6%89%98%E7%8E%9B%E7%89%B9%E6%BB%A1%E7%A0%B4.png)
 
 不过真到游戏里面我还是强度党，给百级的一大半都是因为强度。反倒是当初最先抽到的黑贞，现在竟然还没有十绊。当初确实挺强的，但是后面冲浪队起来以后，就沦为仓管了。最后想吐槽的就是 120 级的消耗了，简直太他妈离谱了，不过反正要退坑了也无所谓了。
 
-![](/img/fgo-百级从者.png)
-![](/img/fgo-黑贞.png)
-![](/img/fgo-仇凛.png)
+![](fgo-百级从者.png)
+![](fgo-黑贞.png)
+![](fgo-仇凛.png)
 
 ### 喜欢的礼装
 
@@ -66,35 +66,35 @@ categories:
 
 首先不夜蔷薇，这个应该不用解释了。
 
-![不夜蔷薇](https://fgo.wiki/images/thumb/6/6f/%E4%B8%8D%E5%A4%9C%E8%94%B7%E8%96%87.png/300px-%E4%B8%8D%E5%A4%9C%E8%94%B7%E8%96%87.png)
+![不夜蔷薇](https://media.fgo.wiki/6/6f/%E4%B8%8D%E5%A4%9C%E8%94%B7%E8%96%87.png)
 
 还有万圣节公主这一张，堪比伽摩的露出度。
 
-![万圣节公主](https://fgo.wiki/images/thumb/2/2f/%E4%B8%87%E5%9C%A3%E8%8A%82%E5%85%AC%E4%B8%BB.png/300px-%E4%B8%87%E5%9C%A3%E8%8A%82%E5%85%AC%E4%B8%BB.png)
+![万圣节公主](https://media.fgo.wiki/2/2f/%E4%B8%87%E5%9C%A3%E8%8A%82%E5%85%AC%E4%B8%BB.png)
 
 圣夜晚餐，一位醉醺醺的美女向你举起了酒杯，这个时候应该干什么呢？
 
-![圣夜晚餐](https://fgo.wiki/images/thumb/6/6b/%E5%9C%A3%E5%A4%9C%E6%99%9A%E9%A4%90.png/300px-%E5%9C%A3%E5%A4%9C%E6%99%9A%E9%A4%90.png)
+![圣夜晚餐](https://media.fgo.wiki/6/6b/%E5%9C%A3%E5%A4%9C%E6%99%9A%E9%A4%90.png)
 
 经典的泳装礼装，我最喜欢的巨乳大姐姐。
 
-![白色航游](https://fgo.wiki/images/thumb/6/6c/%E7%99%BD%E8%89%B2%E8%88%AA%E6%B8%B8.png/300px-%E7%99%BD%E8%89%B2%E8%88%AA%E6%B8%B8.png)
+![白色航游](https://media.fgo.wiki/6/6c/%E7%99%BD%E8%89%B2%E8%88%AA%E6%B8%B8.png)
 
 奥林匹亚之战，尼禄永远滴神。
 
-![奥林匹亚之战](https://fgo.wiki/images/thumb/a/ac/%E5%A5%A5%E6%9E%97%E5%8C%B9%E4%BA%9A%E4%B9%8B%E6%88%98.png/300px-%E5%A5%A5%E6%9E%97%E5%8C%B9%E4%BA%9A%E4%B9%8B%E6%88%98.png)
+![奥林匹亚之战](https://media.fgo.wiki/a/ac/%E5%A5%A5%E6%9E%97%E5%8C%B9%E4%BA%9A%E4%B9%8B%E6%88%98.png)
 
 神秘宝藏，白贞和黑贞，谁又能拒绝姐妹花呢？
 
-![神秘宝藏](https://fgo.wiki/images/thumb/1/18/%E7%A5%9E%E7%A7%98%E5%AE%9D%E8%97%8F.png/300px-%E7%A5%9E%E7%A7%98%E5%AE%9D%E8%97%8F.png)
+![神秘宝藏](https://media.fgo.wiki/1/18/%E7%A5%9E%E7%A7%98%E5%AE%9D%E8%97%8F.png)
 
 游轮约会，光看画风谁能知道这位是芝诺比阿。
 
-![游轮约会](https://fgo.wiki/images/thumb/5/50/%E9%82%AE%E8%BD%AE%E7%BA%A6%E4%BC%9A.png/300px-%E9%82%AE%E8%BD%AE%E7%BA%A6%E4%BC%9A.png)
+![巡游约会](https://media.fgo.wiki/2/2d/%E5%B7%A1%E6%B8%B8%E7%BA%A6%E4%BC%9A.png)
 
 ### 最想做的事情
 
-我对 FGO 最大的怨念其实就是作为一个日本游戏，它的很多操作完全符合那种极为死板的日本人的刻板印象。说来惭愧，在玩公主连结之前，我还以为需要反复点点点抽无限池算是一种设定。结果玩了公主连结以后我才知道，原来这玩意真的只是因为 FGO 没有做而已，原来无限池真的是可以一键抽空的啊。哪怕是我即将退坑的现在，刚刚过去的无限池活动，也仅仅是加了一个 10 池以后一键百抽的设定。
+我对 FGO 最大的怨念其实就是作为一个日本游戏，它的很多操作完全符合那种极为死板的日本人的刻板印象。说来惭愧，在只玩 FGO 的时候我还以为需要反复点点点抽无限池算是一种设定。结果玩了公主连结以后我才知道，原来这玩意真的只是因为 FGO 没有做而已，原来无限池真的是可以一键抽空的啊。哪怕是我即将退坑的现在，刚刚过去的无限池活动，也仅仅是加了一个 10 池以后一键百抽的设定。
 
 所以我最想对 FGO 做的事情，就是做一个能够自动化程序，能够读取游戏截图识别各种数据，然后 24 小时运行不断刷池子，然后无限池轻松刷 500 池。不过目前这个愿望是实现不了了。
 

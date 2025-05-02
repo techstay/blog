@@ -1,5 +1,5 @@
 ---
-title: "将浏览器从vivaldi迁移到edge"
+title: "从vivaldi到edge，浏览器迁移体验"
 date: 2023-03-28T21:12:43+08:00
 image:
 tags:
