@@ -59,7 +59,7 @@ params:
 
   comments:
     enabled: true
-    provider: giscus
+    provider: waline
 
     disqusjs:
       shortname:
@@ -88,7 +88,7 @@ params:
 
     # Waline client configuration see: https://waline.js.org/en/reference/component.html
     waline:
-      serverURL:
+      serverURL: https://waline.16430104.xyz
       lang:
       pageview:
       emoji:
