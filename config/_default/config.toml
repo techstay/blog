@@ -10,5 +10,6 @@ hasCJKLanguage = true
 
 disqusShortname = "techstay-blog"
 
+googleAnalytics = "G-7D2YXGM78T"
 [pagination]
 pagerSize = 5
