@@ -1,11 +1,12 @@
 ---
 title: "《见鬼2》影评"
 date: 2022-03-26T01:51:39+08:00
-image: https://puui.qpic.cn/qqvideo_ori/0/t31094l5303_1280_720/0
+image: https://pic-bstarstatic.akamaized.net/ugc/1dabd5eeb9256708d895815983bbace6.jpg
 tags:
-  - 影评
+  - 电影
+  - 恐怖
 categories:
-  - 影评
+  - reviews
 ---
 
 最近正好在某个电影直播间里看到了[这部电影](https://movie.douban.com/subject/1309125/)，不得不说这部电影的很多部分确实勾住了我的好奇心，让我把整部电影看完没有换台。不过看完之后还是难掩一股吐槽的冲动，所以就写了这篇影评。
