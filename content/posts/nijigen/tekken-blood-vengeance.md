@@ -1,7 +1,7 @@
 ---
 title: "铁拳：血之复仇 简评"
 date: 2023-05-15T19:48:00+08:00
-image: https://images.gamersyde.com/image_tekken_tag_tournament_2-16462-2286_0003.jpg
+image: https://i.ytimg.com/vi/lj2StFWKbVc/maxresdefault.jpg
 tags:
   - 动画
   - 游戏
