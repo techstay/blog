@@ -4,10 +4,10 @@ date: 2023-05-15T19:48:00+08:00
 image: https://images.gamersyde.com/image_tekken_tag_tournament_2-16462-2286_0003.jpg
 tags:
   - 动画
-  - 影评
   - 游戏
+  - 二次元
 categories:
-  - 动漫
+  - nijigen
 ---
 
 这几天突然想起来当年看过的一个游戏改编的动画电影《铁拳：血之复仇》，于是又找到了重新看了一遍。既然看都看了，那就稍微写一点感想吧。

@@ -4,8 +4,9 @@ date: 2022-12-28T19:03:58+08:00
 image: https://images.unsplash.com/photo-1597440658768-f3ffdf64223c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
 tags:
   - 新冠
-categories:
   - 生活
+categories:
+  - life
 ---
 
 自从放开以后，随着奥密克戎的传染水平，每个中国人传染都是早晚的事情，很不幸的是，这几天我也终于阳性了。
