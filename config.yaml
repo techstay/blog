@@ -35,7 +35,7 @@ params:
 
   footer:
     since: 2020
-    customText: 本站总访问量<span id="busuanzi_value_site_pv"></span>次，总访客数<span id="busuanzi_value_site_uv"></span>人，当前页面访问量<span id="busuanzi_value_page_pv"></span>次
+    customText: 本站总访问量<span id="vercount_value_site_pv">Loading</span>次，总访客数<span id="vercount_value_site_uv">Loading</span>人，当前页面访问量<span id="vercount_value_page_pv">Loading</span>次
 
   dateFormat:
     published: Jan 02, 2006
