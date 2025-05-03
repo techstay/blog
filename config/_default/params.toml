@@ -1,0 +1,150 @@
+# Pages placed under these sections will be shown on homepage and archive page.
+mainSections = ["posts"]
+# Output page's full content in RSS.
+favicon = "/favicon.ico"
+rssFullContent = true
+
+[footer]
+customText = '本站总访问量<span id="vercount_value_site_pv">Loading</span>次，总访客数<span id="vercount_value_site_uv">Loading</span>人，当前页面访问量<span id="vercount_value_page_pv">Loading</span>次'
+since = 2020
+
+[dateFormat]
+lastUpdated = "Jan 02, 2006 15:04 MST"
+published = "Jan 02, 2006"
+
+[sidebar]
+emoji = "🎵"
+subtitle = "想说的话有很多"
+
+[sidebar.avatar]
+enabled = true
+local = true
+src = "img/avatar.webp"
+
+[article]
+headingAnchor = true
+math = true
+readingTime = true
+
+[article.license]
+default = 'Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">CC BY-NC-ND 4.0</a>'
+enabled = true
+
+## Widgets
+[[widgets.homepage]]
+type = "search"
+
+[[widgets.homepage]]
+type = "archives"
+
+[widgets.homepage.params]
+limit = 5
+
+[[widgets.homepage]]
+type = "categories"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.homepage]]
+type = "tag-cloud"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.page]]
+type = "toc"
+
+[opengraph.twitter]
+card = "summary_large_image"
+site = ""
+
+[defaultImage.opengraph]
+enabled = false
+local = false
+src = ""
+
+[colorScheme]
+default = "auto"
+toggle = true
+
+[imageProcessing.cover]
+enabled = true
+
+[imageProcessing.content]
+enabled = true
+
+## Comments
+[comments]
+enabled = true
+provider = "waline"
+
+[comments.disqusjs]
+admin = ""
+adminLabel = ""
+apiKey = ""
+apiUrl = ""
+shortname = ""
+
+[comments.utterances]
+issueTerm = "pathname"
+label = ""
+repo = ""
+
+[comments.remark42]
+host = ""
+locale = ""
+site = ""
+
+[comments.vssue]
+autoCreateIssue = false
+clientId = ""
+clientSecret = ""
+owner = ""
+platform = ""
+repo = ""
+
+[comments.waline]
+avatar = ""
+emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"]
+lang = ""
+placeholder = "萍水相逢不易，指间点点留意"
+requiredMeta = ["name", "email", "url"]
+serverURL = "https://waline.16430104.xyz"
+visitor = "游客"
+
+[comments.waline.locale]
+admin = "Admin"
+
+[comments.twikoo]
+envId = ""
+lang = ""
+path = ""
+region = ""
+
+[comments.cactus]
+defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
+serverName = "cactus.chat"
+siteName = ""
+
+[comments.giscus]
+category = ""
+categoryID = ""
+darkTheme = ""
+emitMetadata = 0
+lightTheme = ""
+mapping = ""
+reactionsEnabled = 1
+repo = ""
+repoID = ""
+
+[comments.gitalk]
+admin = ""
+clientID = ""
+clientSecret = ""
+owner = ""
+repo = ""
+
+[comments.cusdis]
+host = ""
+id = ""
