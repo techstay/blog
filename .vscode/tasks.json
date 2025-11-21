@@ -29,6 +29,14 @@
       "args": ["new", "posts/${input:filename}.md"],
       "group": "none",
       "problemMatcher": []
+    },
+    {
+      "label": "Update Theme",
+      "type": "shell",
+      "command": "hugo",
+      "args": ["mod", "get", "-u"],
+      "group": "build",
+      "problemMatcher": []
     }
   ],
   "inputs": [
