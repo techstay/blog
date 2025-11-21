@@ -21,6 +21,21 @@
         "isDefault": true
       },
       "problemMatcher": []
+    },
+    {
+      "label": "New Post",
+      "type": "shell",
+      "command": "hugo",
+      "args": ["new", "posts/${input:filename}.md"],
+      "group": "none",
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "filename",
+      "description": "the created new post filename",
+      "type": "promptString"
     }
   ]
 }
