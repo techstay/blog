@@ -4,6 +4,7 @@ date: 2023-05-15T19:48:00+08:00
 image: https://images.gamersyde.com/image_tekken_tag_tournament_2-16462-2286_0003.jpg
 tags:
   - 动画
+  - 影评
   - 游戏
 categories:
   - 动漫

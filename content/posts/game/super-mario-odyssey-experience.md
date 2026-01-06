@@ -3,7 +3,6 @@ title: "超级马里奥 奥德赛 游玩体验"
 date: 2023-03-05T06:50:31+08:00
 image: https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5
 tags:
-  - 马里奥
   - 任天堂
   - 游戏
 categories:
