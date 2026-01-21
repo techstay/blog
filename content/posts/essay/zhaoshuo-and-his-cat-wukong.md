@@ -5,7 +5,7 @@ image: https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2025%2F050
 tags:
   - 随笔
 categories:
-  - essays
+  - essay
 ---
 
 今天我想聊一聊最近很火的赵朔和悟空的故事。

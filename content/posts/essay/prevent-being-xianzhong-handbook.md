@@ -5,7 +5,7 @@ image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHRkdH0XkRtFqAfJyQ
 tags:
   - 随笔
 categories:
-  - essays
+  - essay
 ---
 
 最近墙内一个博主「老王谈治安」发布了一个手册，名字叫「完全防止张献忠手册」，内容很简单，也就是几张图，网络上随便搜一下就有了。果然，这个话题没过多久就没了，作者本人的账号也被封禁了。不过接着这个由头，我今天就简单聊聊献忠这个话题吧。

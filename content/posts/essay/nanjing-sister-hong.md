@@ -5,7 +5,7 @@ image: https://cdn.table.media/img/asset/YXNzZXRzL3Npc3Rlci1ob25nLmpwZy5qcGc/sis
 tags:
   - 随笔
 categories:
-  - essays
+  - essay
 ---
 
 今天我想聊聊南京「南京红姐」的事情，这个事情前段时间非常火，我也看了很多相关讨论的帖子，觉得非常有意思，所以一直想着聊聊这个事情。
