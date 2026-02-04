@@ -1,7 +1,7 @@
 ---
 title: "我家的狗在冬天被斩杀了"
 date: 2026-01-22T13:33:02+08:00
-image:
+image: https://thumbs.dreamstime.com/z/dog-ascends-heaven-staircase-dog-ascends-heaven-staircase-afterlife-loss-pet-concept-356567370.jpg?ct=jpeg
 tags:
   - 随笔
 categories:
